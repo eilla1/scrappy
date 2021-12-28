@@ -18,6 +18,7 @@ export default {
   "space": "rocket",
   "sleep": "zzz",
   "hardware": "hardware",
+  "adafruit": "hardware",
   "roshan": "roshan",
   "sampoder": "sam-1",
   "vs code": "vsc",
