@@ -185,4 +185,5 @@ export default {
   "annoying site": "annoyingsite",
   "redwood": "redwoodjs",
   "redwoodjs": "redwoodjs",
+  "laser": "monkey-laser",
 }
